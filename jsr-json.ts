@@ -1,3 +1,5 @@
+export {};
+
 export interface jsrJSON {
   name: string;
   version: string;
